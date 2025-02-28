@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ValeevAndrey</string>
+    <string name="button_filler">"Just button"</string>
+    <string name="text_filler">"Just text"</string>
+    <string name="edit_text_filler">"Enter your text"</string>
+    <string name="image_description">"Image description"</string>
+</resources>
